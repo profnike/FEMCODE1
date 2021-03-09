@@ -1,0 +1,48 @@
+.contain{
+
+    border: 3px solid;
+    width: 55% ; 
+     margin: 15px auto;
+}
+hr{
+    height: 3px;
+    background-color: black;
+}
+
+
+#heading{
+    height: 1px;
+    line-height: 0.3em;
+    padding-left: 10px;
+}
+.purple {
+    border: 2px solid;
+    width: 700px;
+    height: 95px;
+    background-color: purple;
+    margin:0 auto;
+    margin-bottom: 5x;
+    margin-left: 20px;
+}
+.second-img {
+
+    border: 2px solid;
+    width: 28.5%;
+    height: 350px;
+    display: inline-block;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 10px;
+    box-sizing: border-box;
+}
+#orange{
+    background-color: orange;
+}
+#green{
+    background-color: rgb(72, 226, 139);
+
+}
+#orangered{
+    background-color: orangered;
+}
+

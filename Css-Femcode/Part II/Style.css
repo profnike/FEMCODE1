@@ -1,0 +1,67 @@
+.contain{
+
+    border: 3px solid;
+    width: 60% ; 
+     margin: 15px auto;
+}
+hr{
+    height: 3px;
+    background-color: black;
+}
+
+
+#heading{
+    
+    line-height: 0.3em;
+    padding-left: 10px;
+}
+.chocolate {
+    border: 2px solid;
+    width: 115px;
+    height: 100px;
+    background-color: chocolate;
+    display: block;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.blue {
+    border: 2px solid;
+    width: 600px;
+    height: 95px;
+    margin-right: 30px;
+    background-color:rgb(91, 158, 235);
+    float: right;
+    margin-top: 0;
+}
+
+.blue-2 {
+        border: 2px solid;
+        width:600px;
+        height: 95px;
+        margin-right: 30px;
+        background-color: rgb(91, 158, 235);
+        float: right;
+        clear: both;
+        margin-top: 0;
+
+}
+.blue-3 {
+    border: 2px solid;
+    width:600px;
+    height:95px;
+     margin-right: 30px;
+    background-color:rgb(91, 158, 235);
+    float: right;
+    clear: both;
+    margin-top: 0;
+}
+
+.yellow {
+    border: 2px solid;
+    width: 760px;
+    height: 95px;
+    background-color: yellow;
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
